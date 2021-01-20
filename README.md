@@ -8,9 +8,12 @@
  - pen down is added before moving with G1
  - delay for pen movement can be added
  - copy it to C:\Program Files\Ultimaker Cura 4.8.0\plugins\PostProcessingPlugin\scripts\
-![pic](/pics/PlotterCode_1.png){: width="50%" height="50%"}
+<img src="https://github.com/PingguSoft/cura_plugin/blob/main/pics/PlotterCode_1.png?raw=true" width="40%">
 
 **hardware**
-![pic](https://github.com/PingguSoft/3dp_hotplug_tools/blob/main/pics/3dp_hotplug_tools_plotter_1.png?raw=true)
-![pic](https://github.com/PingguSoft/3dp_hotplug_tools/blob/main/pics/3dp_hotplug_tools_plotter_1.png?raw=true)
+ - pen is moved up and down by using fan signal to speed up
+ - pen is moved by solenoid and gravity and move up when solenoid is on (=fan is on)
+<img src="https://github.com/PingguSoft/3dp_hotplug_tools/blob/main/pics/3dp_hotplug_tools_pinout_plotter.png?raw=true" width="50%">
+<img src="https://github.com/PingguSoft/3dp_hotplug_tools/blob/main/pics/3dp_hotplug_tools_plotter_1.png?raw=true" width="50%">
+<img src="https://github.com/PingguSoft/3dp_hotplug_tools/blob/main/pics/3dp_hotplug_tools_plotter_2.png?raw=true" width="50%">
 https://github.com/PingguSoft/3dp_hotplug_tools
