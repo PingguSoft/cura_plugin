@@ -8,4 +8,4 @@
  - pen down is added before moving with G1
  - delay for pen movement can be added
  - copy it to C:\Program Files\Ultimaker Cura 4.8.0\plugins\PostProcessingPlugin\scripts\
-![pic](https://github.com/PingguSoft/cura_plugin/blob/master/PlotterCode.png?raw=true?raw=true)
+![pic](https://github.com/PingguSoft/cura_plugin/blob/main/PlotterCode-1.png?raw=true)
